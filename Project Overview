@@ -1,0 +1,169 @@
+👨‍💼 Employee Management System (SQL Project)
+📌 Project Overview
+
+The Employee Management System (EMS) is a SQL-based database project designed to manage and analyze employee information within an organization. The system stores data related to employees, departments, job roles, salaries, qualifications, leaves, and payroll.
+
+This project demonstrates how SQL and relational databases can be used to efficiently organize HR data and generate insights that support organizational decision-making.
+
+🎯 Objectives
+
+Design a relational database to manage employee-related data.
+
+Maintain data integrity using primary keys and foreign keys.
+
+Store employee details such as job roles, departments, salary, and qualifications.
+
+Track leave records and payroll information.
+
+Perform data analysis using SQL queries to generate HR insights.
+
+🗄️ Database Tables
+
+The Employee Management System contains the following main tables:
+
+1️⃣ JobDepartment
+
+Stores department and job role information.
+
+2️⃣ Employee
+
+Contains employee personal and professional details.
+
+3️⃣ SalaryBonus
+
+Stores salary and bonus information of employees.
+
+4️⃣ Qualification
+
+Tracks employee qualifications and skills.
+
+5️⃣ Leaves
+
+Stores employee leave and absence records.
+
+6️⃣ Payroll
+
+Manages payroll processing and payment information.
+
+🔗 Database Features
+
+Relational database design
+
+Primary key and foreign key relationships
+
+Data integrity and consistency
+
+Structured employee data management
+
+Query-based HR analytics
+
+📊 Data Analysis Performed
+
+The project includes SQL queries to generate insights in different HR areas.
+
+## ER Diagram
+
+![ER Diagram](ER_DIAGRAM.jpeg)
+👥 Employee Insights
+
+Number of employees in the system
+
+Departments with the highest number of employees
+
+Average salary per department
+
+Top 5 highest-paid employees
+
+Total salary expenditure in the company
+
+🏢 Job Role & Department Analysis
+
+Number of job roles in each department
+
+Average salary range per department
+
+Job roles offering the highest salary
+
+Departments with the highest salary allocation
+
+🎓 Qualification & Skills Analysis
+
+Employees with at least one qualification
+
+Positions requiring the most qualifications
+
+Employees with the highest number of qualifications
+
+🏖️ Leave & Absence Analysis
+
+Year with the highest employee leave records
+
+Average leave days per department
+
+Employees taking the most leaves
+
+Total leave days across the organization
+
+Relationship between leave days and payroll
+
+💰 Payroll & Compensation Analysis
+
+Total monthly payroll processed
+
+Average bonus per department
+
+Departments receiving the highest bonuses
+
+Average payroll after leave deductions
+
+🔍 Key Insights
+
+Employee distribution varies across departments.
+
+Payroll represents a major operational cost for the company.
+
+Finance-related roles receive the highest salaries.
+
+Some employees hold multiple qualifications, indicating a skilled workforce.
+
+Leave patterns vary between departments and employees.
+
+Bonus structures differ based on department performance.
+
+💡 Recommendations
+
+Balance workforce distribution across departments.
+
+Review salary structures regularly.
+
+Implement performance-based bonus systems.
+
+Monitor employee leave trends.
+
+Encourage employee skill development.
+
+Improve payroll monitoring using automated systems.
+
+🛠️ Technologies Used
+
+SQL
+
+MySQL
+
+🚀 Learning Outcomes
+
+This project helps in understanding:
+
+SQL database design
+
+Table relationships
+
+HR data management
+
+SQL queries for business insights
+
+Payroll and employee analytics
+
+📌 Conclusion
+
+The Employee Management System demonstrates how SQL can be used to efficiently manage employee data, analyze HR operations, and support organizational decision-making through structured data and analytical queries.
